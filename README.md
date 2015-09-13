@@ -4,4 +4,4 @@ This repository contains the code for all of the programmatically generated GIFS
 [gifsofaginger](http://gifsofaginger.tumblr.com).
 
 The vast majority of files here are .py or .pyde files readable by [Processing](http://processing.org)'s
-Python Mode, and their associated .sketch.properties files.
+Python Mode, and their associated .properties files.
